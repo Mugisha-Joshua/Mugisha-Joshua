@@ -1,11 +1,14 @@
-
 <div align="center">
 
-# Hi, I'm Joshua 👋
+<!-- Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=120&section=header&text=Joshua%20Mugisha&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-**Software Engineer · Problem Solver · Builder**
+<!-- Typing Animation -->
+<a href="https://github.com/Mugisha-Joshua">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=444444&center=true&vCenter=true&width=600&lines=Software+Engineer;Real-World+Problem+Solver;Flutter+%26+JavaScript+Developer;Building+Software+That+Matters" alt="Typing SVG" />
+</a>
 
-*I believe the best code doesn't just run — it solves something real for someone real.*
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Mugisha-Joshua?style=flat&color=0d1117&labelColor=30363d&label=Followers)](https://github.com/Mugisha-Joshua)
 &nbsp;
@@ -91,11 +94,19 @@ I'm a Software Engineer studying at the **African Leadership University**, passi
 
 I'm always open to collaborating on projects that matter. Whether you have an idea, a problem to solve, or just want to chat about code — reach out!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mugisha--Joshua-181717?style=flat-square&logo=github)](https://github.com/Mugisha-Joshua)
-
-> *"Any application that can be written will be written. Let's make sure it's written well."*
-**Mugisha-Joshua/Mugisha-Joshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua%20Mugisha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/joshua-mugisha-996a4924b/))
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugishaochel@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@YOUR_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joshua__mugisha)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Mugisha--Joshua-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mugisha-Joshua)
 
+</div>
 
+> *"Any application that can be written will be written. Let's make sure it's written well."*
+
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=80&section=footer" />
