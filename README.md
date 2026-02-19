@@ -96,11 +96,11 @@ I'm always open to collaborating on projects that matter. Whether you have an id
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua%20Mugisha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/joshua-mugisha-996a4924b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua%20Mugisha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/joshua-mugisha-996a4924b/)])
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugishaochel@gmail.com)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@YOUR_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joshua__mugisha)
+[![Instagram](https://img.shields.io/badge/Instagram-@joshua__mugisha-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joshua__mugisha)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Mugisha--Joshua-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mugisha-Joshua)
 
